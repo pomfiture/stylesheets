@@ -669,7 +669,7 @@ h3#irc + .box.pad ul li:last-child, h3#general + .box.pad ul li:last-child {
   padding: 0;
   width: 160px;
   height: 28px;
-  background: url("https://cdn.rawgit.com/pomfiture/stylesheets/0ed81685/monomod-corporate/logo-draft3.png") no-repeat;
+  background: url("https://cdn.rawgit.com/pomfiture/stylesheets/4fdbbdbc/monomod-corporate/logo.png") no-repeat;
   background-size: auto 80%;
 }
 
