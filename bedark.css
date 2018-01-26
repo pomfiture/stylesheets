@@ -18,3 +18,7 @@ body{
     order: 3;
     padding-right: 350px;
 }
+
+#searchbars {
+	margin-top: 8px;
+}
